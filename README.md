@@ -1,4 +1,4 @@
-# Grid-Based Pathfinding with Path Memory
+# Pathfinding Agent
 
 ## Overview
 
