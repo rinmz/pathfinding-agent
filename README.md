@@ -1,3 +1,5 @@
+![Picture](https://media.licdn.com/dms/image/v2/D5622AQGrLaFKs6Rihw/feedshare-shrink_1280/B56ZdVjiVSGoAo-/0/1749487069709?e=1752710400&v=beta&t=zsLufF5_UnjPqqJ-or2rR4QTP1CqXSNxJafSt6TDJtU)
+
 This project demonstrates a simple grid-based pathfinding system with per-goal path memory, visualized using Pygame. The system simulates an entity that learns and reuses the shortest path to randomly placed goals on a 2D grid. For each unique goal, the entity stores the shortest successful path and reuses it if the same goal appears again.
 
 ### Usage
